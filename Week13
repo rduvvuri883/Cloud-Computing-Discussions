@@ -1,3 +1,20 @@
-What problems does edge-based machine learning solve?
-What are the ML frameworks most widely used with edge inference?
-Post a screenshot of a lab where you had difficulty with a concept or learned something.** **
+1) What problems does edge-based machine learning solve?
+
+Edge computing is a distributed computing paradigm that brings computation and data storage closer to the devices where it’s being gathered. Compared to relying on a central location like a cloud, Edge Computing allows real-time data to not suffer bandwidth and latency issues which affect app performance.
+
+To put in simpler terms, instead of running processes in the cloud, Edge Computing runs processes on local places like a computer, IoT device or Edge Server. By bringing computation to a network edge, long-distance communication between a client and server is now being reduced.
+
+Source:- https://www.seeedstudio.com/blog/2020/01/20/what-is-edge-ai-and-what-is-it-used-for/
+
+2) What are the ML frameworks most widely used with edge inference?
+
+Amazon Machine Learning
+Core ML
+TensorFlow Lite
+PyTorch Mobile
+
+Source:- https://towardsdatascience.com/inference-on-the-edge-21234ea7633
+
+3) Post a screenshot of a lab where you had difficulty with a concept or learned something.** **
+
+WIP
