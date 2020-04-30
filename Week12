@@ -1,3 +1,32 @@
-What problems does Sagemaker solve?
-What are competitive offerings to Sagemaker?
-Post a screenshot of a lab where you had difficulty with a concept or learned something.
+1) What problems does Sagemaker solve?
+
+Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. 
+SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.
+
+Source:- https://aws.amazon.com/sagemaker/
+
+2) What are competitive offerings to Sagemaker?
+
+The good
+
+Out-of-the-box support for popular ML frameworks such as TensorFlow and Apache MXNet
+Support for multi-node training even for your own models
+No configuration required to train models in the cloud
+Notebooks can change host without losing information
+Main SageMaker keeps track of your ongoing services (train/deploy/hyperopt)
+Both Jupyter notebook and Jupyter lab are available
+
+The bad
+
+All your data has to be stored on s3
+40% price bump on every instancetype
+
+The ugly
+
+Documentation is sometimes not as conclusive as you would want
+
+Source:-https://medium.com/radix-ai-blog/is-sagemaker-worth-it-4b78a2082ca9
+
+3) Post a screenshot of a lab where you had difficulty with a concept or learned something.
+
+WIP
