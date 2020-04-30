@@ -1,3 +1,26 @@
-What problems does Hadoop Solve?
-What are the key differences between Hadoop and Spark?
-Post a screenshot of a lab where you had difficulty with a concept or learned something.
+1) What problems does Hadoop Solve?
+
+Hadoop runs few applications on distributed systems with thousands of nodes involving petabytes of information. 
+It has a distributed file system, called Hadoop Distributed File System or HDFS, which enables fast data transfer among the nodes.
+
+2) What are the key differences between Hadoop and Spark?
+
+Hadoop can be used for:
+
+-> Linear processing of huge data sets
+-> Economical solution and more of long term solutions
+
+Spark is effective for:
+
+-> Fast data processing
+-> Iterative processing
+-> Near real-time processing
+-> Graph processing
+-> Machine learning
+-> Joining datasets
+
+3) Post a screenshot of a lab where you had difficulty with a concept or learned something.
+
+WIP
+
+Source(s):- WWW
